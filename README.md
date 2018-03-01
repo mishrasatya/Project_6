@@ -1,0 +1,2 @@
+# Project_6
+From the field of pattern recognition, there is a problem that pertains to handwritten digit recognition. The goal is to develop a model that can correctly identify the digit (between 0-9) written in an image. The data set that is used to understand this concept is MNIST data set. The data-set is already divided into training and test data-sets. Number of instances in training : 60000. Number of instances in testing : 10000. Number of Attributes in both training and test: 785 (784 continuous, 1 nominal class label)
